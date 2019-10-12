@@ -17,6 +17,7 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 2. Setelah download, buka file tersebut untuk menjalankan proses instalasi. Ikuti semua instruksi, klik Next dan Finish hingga semua proses instalasi selesai.
 
 Installing GIT on Windows
+
 3. Jalankan perintah berikut ini di terminal:
 
 git config --global user.name "John Smith"
