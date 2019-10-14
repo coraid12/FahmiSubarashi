@@ -1,16 +1,27 @@
 <<<<<<< HEAD
 #Latihan Pemrograman
 
+<<<<<<< HEAD
 ##Mengenal Version Control System
+=======
+## Mengenal Version Control System
+>>>>>>> 3ec3e6ff4eb1fcc55cdc83a628d8ace15f1a07cf
 VCS adalah prinsip penting dalam sistem manajemen konfigurasi software yang berkaitan dengan kebutuhan manajemen perubahan dalam project. Perubahan/revisi/update yang dibuat bisa dikenali melalui kode atau angka. Informasi seperti catatan waktu dan identitas yang membuat perubahan juga tetap ada.
 salah satu VCS yang paling sering digunakan adalah GIT
 
 =======
+<<<<<<< HEAD
 ###Apa itu GIT?
 Pada tahun 2005, Linus Torvalds (orang yang membuat kernel Linux) membuat GIT dan sejak itu GIT secara aktif dikelola oleh Junio Hamano, programmer Jepang. Saat ini, GIT menjadi salah satu version control system yang paling terkenal dan ada jutaan project di seluruh dunia yang menggunakan GIT untuk version control nya (termasuk project komersil dan open source). GIT sepenuhnya gratis dan bisa di-download di Mac, Linux, Windows, dan Solaris, daRI website resminya.
 
-=======
 ####Install GIT di Windows
+
+# Apa itu GIT?
+Pada tahun 2005, Linus Torvalds (orang yang membuat kernel Linux) membuat GIT dan sejak itu GIT secara aktif dikelola oleh Junio Hamano, programmer Jepang. Saat ini, GIT menjadi salah satu version control system yang paling terkenal dan ada jutaan project di seluruh dunia yang menggunakan GIT untuk version control nya (termasuk project komersil dan open source). GIT sepenuhnya gratis dan bisa di-download di Mac, Linux, Windows, dan Solaris, daRI website resminya.
+
+=======
+#Install GIT di Windows
+>>>>>>> 3ec3e6ff4eb1fcc55cdc83a628d8ace15f1a07cf
 Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalankan instalasinya. Ikuti langkah berikut ini untuk meng-install GIT di Windows:
 
 1. Buka website https://gitforwindows.org/ dan download installer GIT untuk Windows.
@@ -21,7 +32,9 @@ git config --global user.name "John Smith"
 git config --global user.email "example@email.com"
 
 =======
+<<<<<<< HEAD
 #####Langkah 2 – Menggunakan GIT
+>>>>>>> 3ec3e6ff4eb1fcc55cdc83a628d8ace15f1a07cf
 Sekarang, setelah GIT di-install di komputer Anda, mari kita pelajari dasar GIT dan bagaimana cara menggunakan GIT.
 
 Membuat/mengatur/mengambil repository: Repository adalah asset yang paling kuat dari semua project versioning. Untuk mengubah direktori menjadi repository GIT, jalankan perintah git init <directory>. Folder bernama .gt akan muncul di direktori bila perintah tersebut telah dijalankan. Kemudian, jika Anda telah memiliki direktori sebelumnya dan ingin mengambilnya, Anda bisa menggunakan perintah git clone. Jika Anda ingin mencoba mengambil repository lokal, gunakan perintah ini:
@@ -94,7 +107,10 @@ git fetch origin
 
 git reset --hard origin/master
 
-=======
+<<<<<<< HEAD
 ######Kesimpulan
 Kenyataan dalam pembuatan software adalah akan sangat nyaman bila manajemen kode disediakan untuk Anda. Tutorial dasar GIT ini wajib diketahui dan dikuasai oleh semua developer, karena akan sangat membantu dalam melakukan version control. Jika Anda ingin melihat informasi yang lebih lengkap, silakan lihat dokumentasi resmi GIT.
 Latihan
+#Kesimpulan
+Kenyataan dalam pembuatan software adalah akan sangat nyaman bila manajemen kode disediakan untuk Anda. Tutorial dasar GIT ini wajib diketahui dan dikuasai oleh semua developer, karena akan sangat membantu dalam melakukan version control. Jika Anda ingin melihat informasi yang lebih lengkap, silakan lihat dokumentasi resmi GIT.
+>>>>>>> 3ec3e6ff4eb1fcc55cdc83a628d8ace15f1a07cf
