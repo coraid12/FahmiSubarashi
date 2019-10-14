@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 #Latihan Pemrograman
 
-<<<<<<< HEAD
-##Mengenal Version Control System
 =======
 ## Mengenal Version Control System
 >>>>>>> 3ec3e6ff4eb1fcc55cdc83a628d8ace15f1a07cf
