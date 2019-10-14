@@ -92,8 +92,8 @@ git fetch origin
 git reset --hard origin/master
 
 ######Kesimpulan
+
 Kenyataan dalam pembuatan software adalah akan sangat nyaman bila manajemen kode disediakan untuk Anda. Tutorial dasar GIT ini wajib diketahui dan dikuasai oleh semua developer, karena akan sangat membantu dalam melakukan version control. Jika Anda ingin melihat informasi yang lebih lengkap, silakan lihat dokumentasi resmi GIT.
 Latihan
 #Kesimpulan
 Kenyataan dalam pembuatan software adalah akan sangat nyaman bila manajemen kode disediakan untuk Anda. Tutorial dasar GIT ini wajib diketahui dan dikuasai oleh semua developer, karena akan sangat membantu dalam melakukan version control. Jika Anda ingin melihat informasi yang lebih lengkap, silakan lihat dokumentasi resmi GIT.
->>>>>>> 3ec3e6ff4eb1fcc55cdc83a628d8ace15f1a07cf
