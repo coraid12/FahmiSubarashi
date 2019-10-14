@@ -2,7 +2,6 @@
 #Latihan Pemrograman
 
 ## Mengenal Version Control System
->>>>>>> 3ec3e6ff4eb1fcc55cdc83a628d8ace15f1a07cf
 VCS adalah prinsip penting dalam sistem manajemen konfigurasi software yang berkaitan dengan kebutuhan manajemen perubahan dalam project. Perubahan/revisi/update yang dibuat bisa dikenali melalui kode atau angka. Informasi seperti catatan waktu dan identitas yang membuat perubahan juga tetap ada.
 salah satu VCS yang paling sering digunakan adalah GIT
 
